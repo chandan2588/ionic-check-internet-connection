@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "E:/AndroidDev/myapp2/gulpfile.js",
+        "E:/AndroidDev/myapp2/plugins/org.apache.cordova.device/www/device.js"
+    ]
+}
